@@ -2,10 +2,19 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MegatronSR.iml" filepath="$PROJECT_DIR$/MegatronSR.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/openCVLibrary320/openCVLibrary320.iml" filepath="$PROJECT_DIR$/openCVLibrary320/openCVLibrary320.iml" />
-      <module fileurl="file://$PROJECT_DIR$/opencamera/opencamera.iml" filepath="$PROJECT_DIR$/opencamera/opencamera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EagleEyeSR.iml" filepath="$PROJECT_DIR$/.idea/modules/EagleEyeSR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/EagleEyeSR.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/EagleEyeSR.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/EagleEyeSR.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/EagleEyeSR.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/EagleEyeSR.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/EagleEyeSR.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/EagleEyeSR.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/EagleEyeSR.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/openCVLibrary320/EagleEyeSR.openCVLibrary320.iml" filepath="$PROJECT_DIR$/.idea/modules/openCVLibrary320/EagleEyeSR.openCVLibrary320.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/openCVLibrary320/EagleEyeSR.openCVLibrary320.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/openCVLibrary320/EagleEyeSR.openCVLibrary320.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/openCVLibrary320/EagleEyeSR.openCVLibrary320.main.iml" filepath="$PROJECT_DIR$/.idea/modules/openCVLibrary320/EagleEyeSR.openCVLibrary320.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/openCVLibrary320/EagleEyeSR.openCVLibrary320.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/openCVLibrary320/EagleEyeSR.openCVLibrary320.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/opencamera/EagleEyeSR.opencamera.iml" filepath="$PROJECT_DIR$/.idea/modules/opencamera/EagleEyeSR.opencamera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/opencamera/EagleEyeSR.opencamera.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/opencamera/EagleEyeSR.opencamera.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/opencamera/EagleEyeSR.opencamera.main.iml" filepath="$PROJECT_DIR$/.idea/modules/opencamera/EagleEyeSR.opencamera.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/opencamera/EagleEyeSR.opencamera.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/opencamera/EagleEyeSR.opencamera.unitTest.iml" />
     </modules>
   </component>
 </project>
